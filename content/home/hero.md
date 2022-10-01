@@ -29,7 +29,3 @@ hero_media: teacher.png
 **ANGAZA STEM**:
 
  **courses**.
-
-
-
-<﻿br>
