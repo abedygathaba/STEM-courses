@@ -1,6 +1,7 @@
 ---
 title: Nicabed Gathaba
 role: Educator
+avatar_filename: my_character.png
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
