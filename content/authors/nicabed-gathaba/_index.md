@@ -8,6 +8,8 @@ interests:
   - Artificial Intelligence
   - Computational Linguistics
   - Information Retrieval
+  - IoT
+  - ""
 social:
   - icon: envelope
     icon_pack: fas
