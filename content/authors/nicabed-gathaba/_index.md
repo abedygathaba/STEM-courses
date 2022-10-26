@@ -7,6 +7,6 @@ social:
       header: false
     icon_pack: fab
     link: https://linktr.ee/Nicabedgathaba
-    icon: Nicabed Gathaba
+    icon: github
 superuser: false
 ---
