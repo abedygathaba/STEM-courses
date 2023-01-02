@@ -12,3 +12,10 @@
 - We strive to create a collaborative and inclusive learning environment that fosters creativity, critical thinking, and problem-solving skills, enabling our students to tackle the complex challenges facing Africa and the world. 
 - By promoting diversity and inclusion, we believe that we can help build a more equitable and prosperous future for all.
 
+
+# Courses :
+ - ## Artficial intellgence.
+ - ## Internet of Things.
+ - ## Quantum Computing.
+
+
